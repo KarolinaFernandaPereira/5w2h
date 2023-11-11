@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Karolina\\OneDrive\\Área de Trabalho\\5w2h\\Bussines\\Bussines.csproj": {}
+    "C:\\Users\\ps046\\Documents\\____alma____\\5w2h\\5w2h_git\\Bussines\\Bussines.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Karolina\\OneDrive\\Área de Trabalho\\5w2h\\Bussines\\Bussines.csproj": {
+    "C:\\Users\\ps046\\Documents\\____alma____\\5w2h\\5w2h_git\\Bussines\\Bussines.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Karolina\\OneDrive\\Área de Trabalho\\5w2h\\Bussines\\Bussines.csproj",
+        "projectUniqueName": "C:\\Users\\ps046\\Documents\\____alma____\\5w2h\\5w2h_git\\Bussines\\Bussines.csproj",
         "projectName": "Bussines",
-        "projectPath": "C:\\Users\\Karolina\\OneDrive\\Área de Trabalho\\5w2h\\Bussines\\Bussines.csproj",
-        "packagesPath": "C:\\Users\\Karolina\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Karolina\\OneDrive\\Área de Trabalho\\5w2h\\Bussines\\obj\\",
+        "projectPath": "C:\\Users\\ps046\\Documents\\____alma____\\5w2h\\5w2h_git\\Bussines\\Bussines.csproj",
+        "packagesPath": "C:\\Users\\ps046\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ps046\\Documents\\____alma____\\5w2h\\5w2h_git\\Bussines\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Karolina\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\ps046\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -59,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100-rc.2.23502.2\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100-rc.1.23455.8\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -33,6 +33,23 @@ namespace _5w2h.Areas.Gestão.Controllers
 
         public IActionResult Index()
         {
+
+            if (TempData.ContainsKey("_tarefaService"))
+            {
+                var errosJson = TempData["_tarefaService"] as string;
+                var erros = System.Text.Json.JsonSerializer.Deserialize<Dictionary<string, List<string>>>(errosJson);
+                foreach (var item in erros)
+                {
+                    string chave = item.Key;
+                    List<string> valor = item.Value;
+                    foreach (var item1 in valor)
+                    {
+                        _tarefaService.ValidationDictionary.AddError(chave, item1);
+                    }
+                }
+                Validation<Tarefa>.CopyValidation(this.ModelState, _tarefaService);
+            }
+
             List<Quadro> quadros = _quadroService.BuscarTodos().Where(q=>q.Ativo != -1).OrderBy(q => q.Codigo).ToList();
             ViewBag.quadros = quadros;
 
@@ -130,7 +147,9 @@ namespace _5w2h.Areas.Gestão.Controllers
                 } else
                 {
                     Validation<Tarefa>.CopyValidation(this.ModelState, _tarefaService);
-                    return View("Index");
+                    var json = System.Text.Json.JsonSerializer.Serialize(_tarefaService.ValidationDictionary.errors);
+                    TempData["_tarefaService"] = json;
+                    return RedirectToAction(nameof(Index));
                 }
 
             }
