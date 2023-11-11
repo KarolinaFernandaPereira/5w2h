@@ -1,0 +1,314 @@
+.header {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: right;
+    background-color: white;
+    padding: 30px;
+}
+
+    .header .novoQuadroBotao {
+        display: flex;
+        align-items: center;
+        gap: 10px;
+    }
+
+    .header a {
+        text-decoration: none;
+        padding: 9px 22px;
+        background-color: blueviolet;
+        color: #FFF;
+        border-radius: 6px;
+    }
+
+#boxCadastro {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+    #boxCadastro .box {
+        background-color: #FFF;
+        width: 548px;
+        height: 367px;
+        border-radius: 7px;
+        overflow: hidden;
+        display: inline;
+        top: -68px;
+        position: relative;
+    }
+
+
+        #boxCadastro .box .form {
+            padding: 45px;
+            display: grid;
+            grid-template-columns: 50% 50%;
+            padding-bottom: 27px;
+        }
+
+            #boxCadastro .box .form .form-group {
+                margin-bottom: 15px;
+            }
+
+#abrirConsulta {
+    align-self: self-end;
+    width: 44%;
+    justify-self: end;
+    padding: 9px;
+}
+
+#boxCadastro .box .head {
+    display: grid;
+    justify-content: space-between;
+    padding: 15px 20px;
+    border-bottom: 1px solid #DDD;
+    grid-auto-columns: min-content;
+    grid-template-columns: 61% 42%;
+}
+
+    #boxCadastro .box .head span {
+        font-size: 20px;
+        font-weight: 700;
+        color: blue;
+        align-self: center;
+        justify-self: flex-end;
+    }
+
+#boxCadastro .box .form input {
+    width: 220px;
+    border-radius: 7px;
+    font-size: 14px;
+    border: 1px solid #999;
+    color: #333;
+    padding: 5px;
+}
+
+#boxCadastro #gestor,
+#boxCadastro #ativo {
+    width: 10%;
+}
+
+
+#boxCadastro .footer {
+    display: flex;
+    justify-content: flex-end;
+    gap: 20px;
+    padding-right: 5px;
+    align-items: center;
+}
+
+
+
+#modalConsulta {
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: rgba(0, 0, 0, 0.5);
+    border: none;
+    display: none;
+    justify-content: center;
+    align-items: center;
+    z-index: 2;
+}
+
+    #modalConsulta .box {
+        background-color: #FFF;
+        width: 400px;
+        border-radius: 7px;
+        overflow: hidden;
+        display: inline;
+    }
+
+        #modalConsulta .box .head {
+            padding: 20px 12px;
+            display: flex;
+            justify-content: space-between;
+            border-bottom: 1px solid #DDD;
+        }
+
+.closeConsulta {
+    border: none;
+    background: none;
+    font-size: 20px;
+    font-weight: 700;
+    cursor: pointer;
+    color: #333;
+}
+
+.consultaSpan {
+    font-size: 18px;
+    font-weight: 700;
+    color: #333;
+}
+
+.pesquisar {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    border: 1px solid #333;
+    background-color: #ddd;
+    justify-content: space-between;
+    padding: 6px;
+    border-radius: 10px 10px 0 0;
+    border-bottom: 0;
+}
+
+    .pesquisar input {
+        border: none;
+        width: 100%;
+        padding: 7px;
+        background: none;
+    }
+
+.funcionario {
+    margin-bottom: 0px;
+    width: 100%;
+    /* border-bottom: 1px solid #a59898; */
+    padding-left: 12px;
+    padding: 9px;
+    display: flex;
+    justify-content: space-between;
+    border-top: 1px solid #a59898;
+    align-items: center;
+}
+
+.ativoSpan {
+    background-color: #22e322;
+    padding: 6px;
+    border-radius: 5px;
+    border: 1px solid #333;
+}
+
+.inativoSpan {
+    background-color: #e14242;
+    padding: 6px;
+    border-radius: 5px;
+    border: 1px solid #333;
+}
+
+#modalPerfilCadastro {
+    position: fixed;
+    /* top: -298px;
+    bottom: 0;
+    left: 700px;
+    right: 110px; */
+
+    top: 40px;
+    bottom: 0;
+    left: 0px;
+    right: 27px;
+    margin-top: 50px;
+    border: none;
+    display: none;
+    align-items: start;
+    justify-content: flex-end;
+}
+
+    #modalPerfilCadastro .box {
+        background-color: #fff;
+        box-shadow: 5px 8px 20px;
+        border-radius: 7px;
+        overflow: hidden;
+        flex-direction: column;
+        justify-content: flex-start;
+        display: flex;
+        height: 17rem;
+    }
+
+    #modalPerfilCadastro #fotoCapa {
+        display: flex;
+        justify-content: center;
+        width: 184px;
+        height: 106px;
+        margin-bottom: 20px;
+        align-items: center;
+        padding-top: 10px;
+        position: relative;
+        border-radius: 100%;
+    }
+
+
+
+    #modalPerfilCadastro .box a {
+        text-align: center;
+        text-decoration: none;
+        color: #333;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 14px;
+        padding-left: 1rem;
+    }
+
+    #modalPerfilCadastro .box .perfil-group {
+        display: flex;
+        align-items: center;
+        justify-content: flex-start;
+        width: 100%;
+        padding: 12px;
+    }
+
+.iconePerfil {
+    font-size: 20px;
+    border-radius: 0;
+    padding-right: 1rem;
+}
+
+#modalPerfilCadastro .fotoTrocada {
+    border-radius: 100%;
+    width: 180px;
+    padding-right: 12px;
+    height: 129px;
+    padding-left: 12px;
+}
+
+.apenasAtivos {
+    padding-bottom: 9px;
+}
+
+.create_func {
+    background-color: blueviolet;
+    padding: 9px;
+    border-radius: 6px;
+}
+
+.create_func a {
+    color: #fff;
+    text-decoration: none;
+}
+
+
+
+.lista_funcionario {
+    background-color: #fff;
+    padding: 2rem;
+    width: 97%;
+    border-radius: 9px;
+}
+.containers {
+    height: 100vh;
+    padding-left: 39px;
+    margin-top: 2rem;
+}
+
+.lista_header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.table_func {
+    width: 100%;
+    margin-top: 2rem;
+    padding: 13px;
+    background-color: lightgray;
+    text-align: center;
+    border-collapse: separate;
+}
+
+table_func tbody td {
+    padding: 1rem;
+}

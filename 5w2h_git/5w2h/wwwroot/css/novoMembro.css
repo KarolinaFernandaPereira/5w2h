@@ -1,0 +1,58 @@
+#adicionarMembro {
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: rgba(0, 0, 0, 0.5);
+    border: none;
+    display: none;
+    justify-content: center;
+    align-items: center;
+    z-index: 2;
+
+}
+
+#adicionarMembro .box {
+    background-color: #FFF;
+    width: 400px;
+    border-radius: 7px;
+    overflow: hidden;
+    display: inline;
+}
+
+#adicionarMembro .box .head {
+    display: flex;
+    justify-content: space-between;
+    padding: 15px 20px;
+    border-bottom: 1px solid #DDD;
+    
+}
+
+#adicionarMembro .box .head span {
+    font-size: 18px;
+    font-weight: 700;
+    color: #333;
+
+}
+
+#adicionarMembro .box .head button {
+    border: none;
+    background: none;
+    font-size: 20px;
+    font-weight: 700;
+    cursor: pointer;
+    color: #333;
+}
+
+
+#adicionarMembro .box .form {
+    padding: 20px;
+
+}
+
+#adicionarMembro .box .form .form-group {
+    margin-bottom: 15px;
+
+}
+

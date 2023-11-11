@@ -1,0 +1,184 @@
+﻿@model IEnumerable<Bussines.Funcionario>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Areas/Gestão/Views/Shared/_Layout.cshtml";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head >
+    <meta charset="UTF-8">
+    
+    <title>5W2H Board</title>
+
+    
+    <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
+    <script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
+    
+    
+    
+    
+    
+    <script src="https://cdn.jsdelivr.net/npm/sortablejs@latest/Sortable.min.js"></script>  
+    <link rel="stylesheet" href="~/css/style.css">
+    <link rel="stylesheet" href="~/css/cadastro.css">
+    <link rel="stylesheet" href="~/css/modalPerfil.css">
+    <link rel="icon" type="image/png" href="~/img/iconeAba.png" sizes="5x5">
+</head>
+<body  >
+    
+   
+
+    <div class="header">
+        <img src="~/img/logoCurto.png" alt="">
+        
+        
+        <div class="novoQuadroBotao">
+            <a href="./home.html" class="primary">Voltar</a>
+            <img src="~/img/logopng.png" alt="" class="logoHeader" onclick="openPerfil()">
+        </div>
+    </div>
+
+
+    <div class="containers">
+        <div class="lista_funcionario">
+            <div class="lista_header" >
+                <h1>Funcionários cadastrados: </h1>
+
+                <p class="create_func">
+                    <a asp-action="Create">Create New</a>
+                </p>
+            </div>
+            <table class="table_func">
+                <thead style="border-bottom: 1px solid #333">
+                    <tr>
+                        <th>
+                            @Html.DisplayNameFor(model => model.Codigo)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.CPF)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.NomeCompleto)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.Gestor)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.Ativo)
+                        </th>
+                        <th></th>
+                    </tr>
+                </thead>
+                
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Codigo)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.CPF)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.NomeCompleto)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Gestor)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Ativo)
+                                
+                            </td>
+                            <td>
+                                @Html.ActionLink("Editar", "Edit", new { /* id=item.PrimaryKey */ }) |
+                                @Html.ActionLink("Consultar", "Details", new { /* id=item.PrimaryKey */ }) |
+                                @Html.ActionLink("Inativar", "Delete", new { /* id=item.PrimaryKey */ })
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+        
+    </div>
+
+    
+
+
+    
+    <div id="modalPerfilCadastro">
+        <div class="box">
+            
+            <img id="fotoCapa" src="./img/logopng.png" alt="" class="fotoTrocada">
+            
+            
+          
+            <div class="perfil-group">
+
+                <a href="#" >
+                    <ion-icon  name="image-outline" class="iconePerfil"></ion-icon>  
+                    <input type="file"  id="upload" onchange="showThumbnail(this)">
+                    <label for="upload" style="cursor: pointer">Trocar Foto</label> 
+                </a>
+            </div>
+            <hr >
+            <div class="perfil-group">
+
+                <a href="#">
+                    <ion-icon name="lock-closed-outline" class="iconePerfil"></ion-icon>
+                    <span>Alterar Senha</span>
+                </a>
+            </div>
+            <hr >
+            <div class="perfil-group">
+
+                <a href="./login.html">
+                    <ion-icon name="exit-outline" class="iconePerfil"></ion-icon>
+                    <span>Deslogar</span>
+                </a>
+            </div>
+                
+
+
+        </div>
+    </div>
+
+    <div id="modalConsulta">
+        <div class="box">
+            <div class="head">
+                <span class="consultaSpan">Consultar Funcionários</span>
+                <button onclick="fecharModalConsulta()" class="closeConsulta">X</button>
+            </div>
+            <div class="form" style="padding: 14px;">
+                <div class="apenasAtivos">
+                    <input type="checkbox" id="usuariosAtivos" placeholder="" checked="true"/>
+                    <label for="usuariosAtivos">Apenas Ativos</label> 
+                </div>
+                <div class="pesquisar">
+                    <input type="text" class="pesquisarConsulta" placeholder="Pesquisar">
+                    <ion-icon name="search-outline"></ion-icon>
+                </div>
+                <div class="listaFuncionario">
+                    <ul style="list-style-type: none;
+                    /* padding-left: 0px; */
+                    background: #DDD;
+                    border: 1px solid #333;
+                    border-top: 1px solid #a59898;
+                    border-radius: 0 0 10px 10px;
+                ">
+                        <li class="funcionario" onclick="consultaFuncionario('Karolina Fernanda')" id="ativo">Karolina Fernanda <span class="ativoSpan">Ativo</span></li>
+                        <li class="funcionario" onclick="consultaFuncionario('Kate Silva')" id="ativo">Kate Silva<span class="ativoSpan">Ativo</span></li>
+                        <li class="funcionario" onclick="consultaFuncionario('Gustavo Bozo')" id="inativo">Gustavo Bozo <span class="inativoSpan">Inativo</span></li>
+
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <script src="~/js/quadro.js"></script>
+</body>
+</html>

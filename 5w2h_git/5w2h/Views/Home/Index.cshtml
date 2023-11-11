@@ -1,0 +1,495 @@
+﻿
+@{
+    ViewData["Title"] = "Home Page";
+    int teste = 0;
+    int teste2 = 0;
+
+    Bussines.Tarefa verTarefa = new Bussines.Tarefa();
+
+    if (ViewBag.verTarefa != null)
+    {
+        verTarefa = ViewBag.verTarefa;
+    }
+
+
+
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <meta charset="UTF-8">
+
+    <title>5W2H Board</title>
+    <!--Ultima modificação antes do zipx'-->
+    <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1.0, maximum-scale=10, minimum-scale=1.0">
+    <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
+    <script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+
+
+    <script src="https://cdn.jsdelivr.net/npm/sortablejs@latest/Sortable.min.js"></script>
+    <link rel="icon" type="image/png" href="~/img/iconeAba.png" sizes="5x5">
+    <link rel="stylesheet" href="~/css/style.css">
+    <link rel="stylesheet" href="~/css/modalPerfil.css">
+    <link rel="stylesheet" href="~/css/novoMembro.css">
+    <link rel="stylesheet" href="~/css/verTarefa.css">
+</head>
+<body>
+
+
+
+    <header class="header">
+        <div class="container-fluid" id="containerNormal">
+            <div class="row justify-content-between">
+                <div class="col-auto col">
+
+                    <img src="~/img/logoCurto.png" alt="">
+
+                </div>
+                <div class="col-auto">
+                    <div class="novoQuadroBotao">
+
+
+                        
+                        <!-- <ion-icon name="ellipsis-vertical-outline" onclick="openPerfil()"></ion-icon> -->
+                        <img src="~/img/logopng.png" alt="" class="logoHeader" onclick="openPerfil()">
+                    </div>
+                </div>
+
+            </div>
+
+
+        </div>
+        <div class="container-fluid" id="containerMobile">
+            <div class="row d-flex justify-content-between align-items-center">
+
+                <div class="col-auto col">
+
+                    <img src="~/img/iconeAba.png" alt="" style="    width: 5rem;
+                    height: 5rem;">
+
+
+                </div>
+                <div class="col-auto ">
+                    
+                </div>
+                <div class="col-auto">
+
+                    <ion-icon name="menu-outline" id="openSideMenu" onclick="openPerfilMobile()"></ion-icon>
+                </div>
+            </div>
+        </div>
+    </header>
+
+
+    <div class="container-fluid">
+
+        <div class="row">
+            <div class="col-lg-12" id="quadros">
+
+                @foreach (var quad in ViewBag.quadros)
+                {
+                    <div class="column" id="@quad.Nome.ToLower()" data-column="@quad.Codigo"
+                         ondrop="drop_handler(event)" ondragover="dragover_handler(event)">
+                        <div class="head">
+                            <span>@quad.Nome</span>
+                            <ion-icon name="ellipsis-horizontal" id="headIcon" onclick="openModalQuadroEditDinamico(@quad.Codigo)"></ion-icon>
+                        </div>
+                        <div class="body">
+                            <div class="cards_list">
+                                @foreach (var tar in ViewBag.tarefas)
+
+                                {
+
+                                    @if (@tar.CodigoQuadro == @quad.Codigo)
+                                    {
+
+                                        <div id="@tar.Codigo" class="card" draggable="true" ondragstart="dragstart_handler(event)">
+                                            <div class="info" style="display: flex; justify-content: space-between; align-items: center;}">
+                                                <b style="max-width: 10rem; flex-wrap: nowrap; word-wrap: break-word;"> @tar.Nome</b>
+                                                <div id="membrosCloseTarefa_@tar.Codigo" style="display: none">
+
+
+                                                    @foreach (var membro in tar.Funcionario)
+                                                    {
+                                                        <div class="membroAdicionado" style="display: flex; flex-direction: column; align-items: center;
+                                                    padding-top: 4px;
+                                                    padding-bottom: 4px;">
+
+                                                            <ion-icon name="person-circle-outline" style="font-size: 36px;" title="${@membro.NomeCompleto}"></ion-icon>
+
+
+
+                                                        </div>
+                                                    }
+
+                                                </div>
+                                                <div id="vierEditarTarefa_@tar.Codigo">
+
+
+                                                    <ion-icon name="eye-outline" style="cursor: pointer; border-radius: 0;align-items: center;
+                                                    display: flex; font-size: 21px" onclick="openModalToView(@tar.Codigo)" title="Editar"></ion-icon>
+
+                                                </div>
+                                            </div>
+                                            <span id="mais_@tar.Codigo" class="mais">
+                                                <ul>
+                                                    <div class="info">
+                                                        <b class="info" title="@tar.Oque" style="cursor: pointer;">O Quê?</b>
+
+                                                        <b class="info" title="@tar.Onde" style="cursor: pointer;">Onde ?</b>
+
+                                                        <b class="info" title="@tar.Quando" style="cursor: pointer;">Quando ?</b>
+
+                                                        <b class="info" title="@tar.Como" style="cursor: pointer;">Como ?</b>
+
+                                                        <b class="info" title="@tar.Quanto" style="cursor: pointer;">Quanto ?</b>
+
+                                                        <b class="info" title="@tar.Quem" style="cursor: pointer;">Quem ?</b>
+
+                                                        <b class="info" title="@tar.PorQue" style="cursor: pointer;">Por Quê ?</b>
+                                                    </div>
+                                                </ul>
+                                            </span>
+                                            <button class="verMais" id="btnVerMais_@tar.Codigo" onclick="verMais(@tar.Codigo)">
+                                                <ion-icon name="arrow-down-circle-outline"></ion-icon>
+                                            </button>
+
+                                            <button class="verMenos" id="btnVerMenos_@tar.Codigo" style="display: none" onclick="verMais(@tar.Codigo)">
+                                                <ion-icon name="arrow-up-circle-outline"></ion-icon>
+                                            </button>
+                                        </div>
+                                    }
+                                }
+                            </div>
+                            
+                        </div>
+                    </div>
+                }
+            </div>
+        </div>
+    </div>
+
+    <div id="modal">
+        <div class="box">
+            <div class="head">
+                <span id="createMode">Nova Tarefa</span>
+                <span id="editMode">Editar Tarefa</span>
+                <ion-icon name="eye-outline" id="viewTarefaIcone"></ion-icon>
+                <span id="viewTarefaMode" style="left: -186px; position: relative;">Visualizar Tarefa</span>
+                <button id="closePadrao" onclick="closeModal()">X</button>
+
+            </div>
+
+            <form class="form" asp-action="ControleTarefa" asp-controller="teste" method="post">
+
+                <input type="hidden" id="idTarefa">
+                @Html.Hidden("codigoQuadro1", 0)
+                @Html.Hidden("idUpdateTarefa", 0)
+                @Html.Hidden("idInativarTarefa", 0)
+
+                <textarea id="membrosOcultos" name="membrosOcultos" style="display: none"></textarea>
+
+                <div class="form-group">
+                    <input name="nomeTarefa" id="nomeTarefa" type="text" placeholder="Nome da Tarefa" class="nameInput">
+                </div>
+                <div class="form-group">
+                    <label for="descricao">
+                        <b style="top: 1px; position: relative;">Descrição</b>
+                    </label>
+                    <textarea name="descricao" id="descricao" rows="3" placeholder="Escreva uma descrição aqui"></textarea>
+                </div>
+
+                <div class="adicionarMembro" id="membrosTarefa">
+                    <span for="adicionarMemrboLogo" style="padding-right: 20px;"> Membros: </span>
+                    <div id="novosMembrosTarefa" class="novosMembrosTarefa" style=" max-height: 13rem; overflow-y: auto;">
+                    </div>
+                    <ion-icon name="person-add-outline" id="adicionarMemrboLogo" style="cursor: pointer;" onclick="showModalMembro()"></ion-icon>
+                    <ion-icon name="alert-circle-outline" id="logoSemMembros" style="padding-right: 41%;"></ion-icon>
+
+                    <span id="spanAdicionarMembro"> Adicionar Membros</span>
+                    <span id="spanSemMembros" style="text-align: center; padding-right:20%; font-size: 14px;">Tarefa sem membros</span>
+                </div>
+
+                <b>5w2h</b>
+                <div id="inputs5w2h">
+                    <div class="form-group-5w2h">
+                        <label for="oque">OQuê?</label>
+                        <input type="text" name="oque" id="oque" placeholder="Resuma a Tarefa." class="w2hInput" />
+                    </div>
+                    <div class="form-group-5w2h">
+                        <label for="onde">Onde?</label>
+                        <input type="text" name="onde" id="onde" placeholder="Indique o Local." class="w2hInput" />
+                    </div>
+                    <div class="form-group-5w2h">
+                        <label for="quando">Quando?</label>
+                        <input type="date" name="quando" id="quando" placeholder="Estipule um prazo de entrega." class="w2hInput" />
+                    </div>
+                    <div class="form-group-5w2h">
+                        <label for="como">Como?</label>
+                        <input type="text" name="como" id="como" placeholder="Maneira de Realizar a tarefa" class="w2hInput" />
+                    </div>
+                    <div class="form-group-5w2h">
+                        <label for="quanto">Quanto?</label>
+                        <input type="text" name="quanto" id="quanto" placeholder="Estipule Um valor." class="w2hInput" />
+                    </div>
+                    <div class="form-group-5w2h">
+                        <label for="quem">Quem?</label>
+                        <input type="text" name="quem" id="quem" placeholder="Participantes da Tarefa." class="w2hInput" />
+                    </div>
+                    <div class="form-group-5w2h">
+                        <label for="porque">PorQuê?</label>
+                        <input type="text" name="porque" id="porque" placeholder="Objetivo da tarefa." class="w2hInput" />
+                    </div>
+                </div>
+
+                <button id="createButton" class="primary" type="submit" value="criar" name="acaoForm" onclick="criarTarefa()">Criar</button>
+
+                <div class="d-flex flex-row justify-content-end gap-1">
+
+                    <button id="editButton" class="primary" value="editar" name="acaoForm">Editar</button>
+                    <button id="inativarButton" class="excluir_botao" value="inativar" name="acaoForm">Inativar</button>
+                </div>
+
+            </form>
+
+        </div>
+    </div>
+
+    <div id="modalPerfil">
+        <div class="box">
+
+            <img id="fotoCapa" src="~/img/logopng.png" alt="" class="fotoTrocada">
+
+
+
+            <div class="perfil-group">
+
+                <a href="#">
+                    <ion-icon name="image-outline" class="iconePerfil"></ion-icon>
+                    <input type="file" id="upload" onchange="showThumbnail(this)">
+                    <label for="upload" style="cursor: pointer">Trocar Foto</label>
+                </a>
+            </div>
+            <hr noshade>
+            <div class="perfil-group">
+
+                <a href="#">
+                    <ion-icon name="lock-closed-outline" class="iconePerfil"></ion-icon>
+                    <span>Alterar Senha</span>
+                </a>
+            </div>
+            <hr noshade>
+            
+            <div class="perfil-group">
+
+                <a asp-controller="Login" asp-action="Index">
+                    <ion-icon name="exit-outline" class="iconePerfil"></ion-icon>
+                    <span>Deslogar</span>
+                </a>
+            </div>
+
+
+
+        </div>
+    </div>
+
+    <div id="modalPerfilMobile">
+        <div class="fechar" style="    height: 100vh;
+        display: flex;
+        align-items: center;
+        position: absolute;
+        top: 0;
+        left: -2rem;
+        background: #fff;">
+            <ion-icon name="chevron-forward-outline" onclick="fecharPerfilMobile()"></ion-icon>
+        </div>
+        <div class="box">
+            <div class="image-mobile">
+                <span style="    font-size: 18px;
+                color: #fff;    padding-right: 5rem;
+            ">Karolina Fernanda</span>
+                <img id="fotoCapa" src="~/img/logopng.png" alt="" class="fotoTrocada">
+
+            </div>
+
+
+
+            <div class="perfil-group">
+
+                <a href="#">
+                    <ion-icon name="image-outline" class="iconePerfilMobile"></ion-icon>
+                    <input type="file" id="upload" onchange="showThumbnail(this)">
+                    <label for="upload" style="cursor: pointer">Trocar Foto</label>
+                </a>
+            </div>
+            <hr style="color: #333;">
+            <div class="perfil-group">
+
+                <a href="#">
+                    <ion-icon name="lock-closed-outline" class="iconePerfilMobile"></ion-icon>
+                    <span>Alterar Senha</span>
+                </a>
+            </div>
+            <hr>
+            <div class="perfil-group">
+
+                <a asp-controller="Cadastro" asp-action="Index">
+                    <ion-icon name="add-outline" class="iconePerfilMobile"></ion-icon>
+                    <span>Cadastro</span>
+                </a>
+            </div>
+            <hr noshade>
+            <div class="perfil-group">
+
+                <a asp-controller="Login" asp-action="Index">
+                    <ion-icon name="exit-outline" class="iconePerfilMobile"></ion-icon>
+                    <span>Deslogar</span>
+                </a>
+            </div>
+
+
+
+        </div>
+    </div>
+
+    <div id="modalQuadro">
+        <div class="box">
+            <div class="head">
+                <span id="createModeQuadro" style="left: -66%;
+                position: relative;">Novo Quadro</span>
+                <span id="editmodeQuadro" style="left: -66%;
+                position: relative;">Editar Quadro</span>
+                <button onclick="closeModalQuadro()">X</button>
+            </div>
+            <div class="form">
+                <form asp-action="ControleQuadro" asp-controller="teste" method="post">
+
+                    <div class="form-group">
+
+                        <input type="hidden" id="idQuadro">
+                        @Html.Hidden("idUpdateQuadro", 0)
+                        @Html.Hidden("idVisualizar", 0)
+                        @Html.Hidden("idInativarQuadro", 0)
+
+                        <label for="nomeQuadroUpdate">Nome do Quadro</label>
+                        <textarea id="nomeQuadroUpdate" name="nomeQuadroUpdate" rows="1" value=""></textarea>
+
+
+
+                    </div>
+                    <button id="createQuadroButton" class="primary" type="submit" value="criar" name="acaoForm">Criar</button>
+
+                    <div id="controleQuadro" style="display: flex; gap: 49%;">
+
+
+
+                        <button id="editDinamico" class="primary" type="submit" value="editar" name="acaoForm"
+                                style="position: absolute; right: 37%; padding: 9px 16px; display: block;">
+                            Editar
+                        </button>
+                        <button id="deleteDinamico" class="excluir_botao" type="submit" value="inativar" name="acaoForm"
+                                style=" padding: 9px 16px; display: block; position: relative; right: 24%;">
+                            Excluir
+                        </button>
+                    </div>
+                </form>
+            </div>
+            >
+        </div>
+    </div>
+
+    <div id="modalDelete" style="z-index: 2;">
+        <div class="box">
+            <div class="head">
+                <span id="createMode">Deletar Tarefa</span>
+                <button onclick="closeModalDelete()">X</button>
+            </div>
+            <p>Deseja mesmo excluir a tarefa ?</p>
+            <div class="body">
+
+                <button class="excluir_botao" onclick="deleteTarefa()">Excluir</button>
+
+            </div>
+        </div>
+    </div>
+
+    <div id="modalDeleteQuadro">
+        <div class="box">
+            <div class="head">
+                <span id="createMode">Deletar Quadro</span>
+                <button onclick="closeModalDeleteQuadro()">X</button>
+            </div>
+            <div class="body">
+                <form asp-action="InativarQuadro" asp-controller="teste" method="post">
+
+                    <p>Esse quadro pode possuir tarefas que também serão deletadas.Não será possível recupera-las. <br><strong>Tem certeza que deseja excluir ?</strong></p>
+
+                    <button class="excluir_botao" type="submit">Excluir</button>
+
+                </form>
+            </div>
+
+        </div>
+    </div>
+
+    <div id="adicionarMembro">
+        <div class="box">
+            <div class="head">
+                <span>Escolher Membro</span>
+                <button onclick="closeModalMembro()">X</button>
+            </div>
+            <div class="form">
+
+                <div class="form-group">
+
+
+                    <label for="novoMembro" style="font-size: 20px;">Membros: </label>
+                    <select name="novoMembro" id="novoMembro" style="padding: 6px 15px;
+                    border-radius: 11px;">
+                        @foreach (var func in ViewBag.funcionarios)
+                        {
+
+                            <option value="@func.NomeCompleto">@func.NomeCompleto</option>
+                        }
+
+
+                    </select>
+                </div>
+                <button id="createQuadroButton" class="primary" onclick="adicionarMembro()">Adicionar</button>
+
+
+            </div>
+        </div>
+    </div>
+
+
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="~/js/siteHome.js"></script>
+    <script>
+
+
+
+
+        function drag(ev) {
+
+
+        }
+
+        function allowDrop(ev) {
+
+        }
+
+        function drop(ev) {
+
+        }
+
+
+
+    </script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.min.js" integrity="sha384-BBtl+eGJRgqQAUMxJ7pMwbEyER4l1g+O15P+16Ep7Q9Q+zqX6gSbd85u4mG4QzX+" crossorigin="anonymous"></script>
+
+</body>
+</html>

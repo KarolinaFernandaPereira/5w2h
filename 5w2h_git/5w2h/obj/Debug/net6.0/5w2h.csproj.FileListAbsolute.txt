@@ -1,0 +1,1089 @@
+G:\5w2h\5w2h\bin\Debug\net6.0\appsettings.Development.json
+G:\5w2h\5w2h\bin\Debug\net6.0\appsettings.json
+G:\5w2h\5w2h\bin\Debug\net6.0\5w2h.staticwebassets.runtime.json
+G:\5w2h\5w2h\bin\Debug\net6.0\5w2h.exe
+G:\5w2h\5w2h\bin\Debug\net6.0\Azure.Core.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\Azure.Identity.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\Humanizer.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\MessagePack.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\MessagePack.Annotations.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\Microsoft.Build.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\Newtonsoft.Json.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\NuGet.Common.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\NuGet.Configuration.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\NuGet.Frameworks.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\NuGet.LibraryModel.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\NuGet.Packaging.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\NuGet.ProjectModel.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\NuGet.Protocol.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\NuGet.Versioning.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\System.Composition.Convention.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\System.Composition.Hosting.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\System.Composition.Runtime.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\System.Composition.TypedParts.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\System.Drawing.Common.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\System.Memory.Data.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\System.Runtime.Caching.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\System.Security.Permissions.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\System.Windows.Extensions.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\af\Humanizer.resources.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\ar\Humanizer.resources.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\az\Humanizer.resources.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\bg\Humanizer.resources.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\cs\Humanizer.resources.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\da\Humanizer.resources.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\de\Humanizer.resources.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\el\Humanizer.resources.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\es\Humanizer.resources.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\fa\Humanizer.resources.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\fr\Humanizer.resources.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\he\Humanizer.resources.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\hr\Humanizer.resources.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\hu\Humanizer.resources.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\hy\Humanizer.resources.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\id\Humanizer.resources.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\is\Humanizer.resources.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\it\Humanizer.resources.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\ja\Humanizer.resources.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\ku\Humanizer.resources.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\lv\Humanizer.resources.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\mt\Humanizer.resources.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\nb\Humanizer.resources.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\nl\Humanizer.resources.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\pl\Humanizer.resources.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\pt\Humanizer.resources.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\ro\Humanizer.resources.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\ru\Humanizer.resources.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\sk\Humanizer.resources.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\sl\Humanizer.resources.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\sr\Humanizer.resources.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\sv\Humanizer.resources.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\tr\Humanizer.resources.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\uk\Humanizer.resources.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\vi\Humanizer.resources.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\Bussines.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\Repository.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\Services.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\Repository.pdb
+G:\5w2h\5w2h\bin\Debug\net6.0\Services.pdb
+G:\5w2h\5w2h\bin\Debug\net6.0\Bussines.pdb
+G:\5w2h\5w2h\obj\Debug\net6.0\5w2h.csproj.AssemblyReference.cache
+G:\5w2h\5w2h\obj\Debug\net6.0\5w2h.GeneratedMSBuildEditorConfig.editorconfig
+G:\5w2h\5w2h\obj\Debug\net6.0\5w2h.AssemblyInfoInputs.cache
+G:\5w2h\5w2h\obj\Debug\net6.0\5w2h.AssemblyInfo.cs
+G:\5w2h\5w2h\obj\Debug\net6.0\5w2h.csproj.CoreCompileInputs.cache
+G:\5w2h\5w2h\obj\Debug\net6.0\5w2h.MvcApplicationPartsAssemblyInfo.cache
+G:\5w2h\5w2h\obj\Debug\net6.0\5w2h.RazorAssemblyInfo.cache
+G:\5w2h\5w2h\obj\Debug\net6.0\5w2h.RazorAssemblyInfo.cs
+G:\5w2h\5w2h\obj\Debug\net6.0\staticwebassets\msbuild.5w2h.Microsoft.AspNetCore.StaticWebAssets.props
+G:\5w2h\5w2h\obj\Debug\net6.0\staticwebassets\msbuild.build.5w2h.props
+G:\5w2h\5w2h\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.5w2h.props
+G:\5w2h\5w2h\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.5w2h.props
+G:\5w2h\5w2h\obj\Debug\net6.0\staticwebassets.pack.json
+G:\5w2h\5w2h\obj\Debug\net6.0\staticwebassets.build.json
+G:\5w2h\5w2h\obj\Debug\net6.0\staticwebassets.development.json
+G:\5w2h\5w2h\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+G:\5w2h\5w2h\obj\Debug\net6.0\scopedcss\bundle\5w2h.styles.css
+G:\5w2h\5w2h\obj\Debug\net6.0\scopedcss\projectbundle\5w2h.bundle.scp.css
+G:\5w2h\5w2h\obj\Debug\net6.0\5w2h.csproj.CopyComplete
+G:\5w2h\5w2h\obj\Debug\net6.0\5w2h.dll
+G:\5w2h\5w2h\obj\Debug\net6.0\refint\5w2h.dll
+G:\5w2h\5w2h\obj\Debug\net6.0\5w2h.pdb
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\appsettings.json
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\5w2h.staticwebassets.runtime.json
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\5w2h.exe
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\5w2h.deps.json
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\5w2h.runtimeconfig.json
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\5w2h.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\5w2h.pdb
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\Humanizer.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\MessagePack.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\Microsoft.Build.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\af\Humanizer.resources.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\ar\Humanizer.resources.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\az\Humanizer.resources.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\bg\Humanizer.resources.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\cs\Humanizer.resources.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\da\Humanizer.resources.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\de\Humanizer.resources.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\el\Humanizer.resources.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\es\Humanizer.resources.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\fa\Humanizer.resources.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\fr\Humanizer.resources.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\he\Humanizer.resources.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\hr\Humanizer.resources.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\hu\Humanizer.resources.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\hy\Humanizer.resources.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\id\Humanizer.resources.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\is\Humanizer.resources.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\it\Humanizer.resources.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\ja\Humanizer.resources.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\ku\Humanizer.resources.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\lv\Humanizer.resources.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\mt\Humanizer.resources.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\nb\Humanizer.resources.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\nl\Humanizer.resources.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\pl\Humanizer.resources.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\pt\Humanizer.resources.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\ro\Humanizer.resources.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\ru\Humanizer.resources.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\sk\Humanizer.resources.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\sl\Humanizer.resources.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\sr\Humanizer.resources.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\sv\Humanizer.resources.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\tr\Humanizer.resources.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\uk\Humanizer.resources.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\vi\Humanizer.resources.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\Bussines.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\Repository.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\Services.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\Repository.pdb
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\Services.pdb
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\bin\Debug\net6.0\Bussines.pdb
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\obj\Debug\net6.0\5w2h.csproj.AssemblyReference.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\obj\Debug\net6.0\5w2h.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\obj\Debug\net6.0\5w2h.AssemblyInfoInputs.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\obj\Debug\net6.0\5w2h.AssemblyInfo.cs
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\obj\Debug\net6.0\5w2h.csproj.CoreCompileInputs.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\obj\Debug\net6.0\5w2h.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\obj\Debug\net6.0\5w2h.RazorAssemblyInfo.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\obj\Debug\net6.0\5w2h.RazorAssemblyInfo.cs
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\obj\Debug\net6.0\staticwebassets\msbuild.5w2h.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\obj\Debug\net6.0\staticwebassets\msbuild.build.5w2h.props
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.5w2h.props
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.5w2h.props
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\obj\Debug\net6.0\scopedcss\bundle\5w2h.styles.css
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\obj\Debug\net6.0\scopedcss\projectbundle\5w2h.bundle.scp.css
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\obj\Debug\net6.0\5w2h.csproj.CopyComplete
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\obj\Debug\net6.0\5w2h.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\obj\Debug\net6.0\refint\5w2h.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\obj\Debug\net6.0\5w2h.pdb
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\obj\Debug\net6.0\5w2h.genruntimeconfig.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\obj\Debug\net6.0\ref\5w2h.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\5w2h\obj\Debug\net6.0\scopedcss\Areas\Gestaoo\Views\Shared\_Layout.cshtml.rz.scp.css
+G:\5w2h\5w2h\bin\Debug\net6.0\5w2h.deps.json
+G:\5w2h\5w2h\bin\Debug\net6.0\5w2h.runtimeconfig.json
+G:\5w2h\5w2h\bin\Debug\net6.0\5w2h.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\5w2h.pdb
+G:\5w2h\5w2h\obj\Debug\net6.0\scopedcss\Areas\Gestaoo\Views\Shared\_Layout.cshtml.rz.scp.css
+G:\5w2h\5w2h\obj\Debug\net6.0\5w2h.genruntimeconfig.cache
+G:\5w2h\5w2h\obj\Debug\net6.0\ref\5w2h.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\System.Web.Mvc.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\System.Web.Razor.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\System.Web.Helpers.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\System.Web.WebPages.Deployment.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\System.Web.WebPages.Razor.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\System.Web.WebPages.dll
+G:\5w2h\5w2h\bin\Debug\net6.0\Microsoft.Web.Infrastructure.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\appsettings.Development.json
+E:\5w2h\5w2h\bin\Debug\net6.0\appsettings.json
+E:\5w2h\5w2h\bin\Debug\net6.0\5w2h.staticwebassets.runtime.json
+E:\5w2h\5w2h\bin\Debug\net6.0\5w2h.exe
+E:\5w2h\5w2h\bin\Debug\net6.0\5w2h.deps.json
+E:\5w2h\5w2h\bin\Debug\net6.0\5w2h.runtimeconfig.json
+E:\5w2h\5w2h\bin\Debug\net6.0\5w2h.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\5w2h.pdb
+E:\5w2h\5w2h\bin\Debug\net6.0\Azure.Core.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\Azure.Identity.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\Humanizer.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\MessagePack.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\MessagePack.Annotations.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\Microsoft.Build.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\NuGet.Common.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\NuGet.Configuration.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\NuGet.Frameworks.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\NuGet.LibraryModel.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\NuGet.Packaging.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\NuGet.ProjectModel.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\NuGet.Protocol.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\NuGet.Versioning.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\System.Composition.Convention.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\System.Composition.Hosting.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\System.Composition.Runtime.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\System.Composition.TypedParts.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\System.Memory.Data.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\af\Humanizer.resources.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\ar\Humanizer.resources.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\az\Humanizer.resources.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\bg\Humanizer.resources.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\cs\Humanizer.resources.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\da\Humanizer.resources.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\de\Humanizer.resources.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\el\Humanizer.resources.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\es\Humanizer.resources.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\fa\Humanizer.resources.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\fr\Humanizer.resources.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\he\Humanizer.resources.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\hr\Humanizer.resources.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\hu\Humanizer.resources.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\hy\Humanizer.resources.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\id\Humanizer.resources.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\is\Humanizer.resources.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\it\Humanizer.resources.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\ja\Humanizer.resources.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\ku\Humanizer.resources.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\lv\Humanizer.resources.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\mt\Humanizer.resources.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\nb\Humanizer.resources.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\nl\Humanizer.resources.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\pl\Humanizer.resources.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\pt\Humanizer.resources.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\ro\Humanizer.resources.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\ru\Humanizer.resources.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\sk\Humanizer.resources.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\sl\Humanizer.resources.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\sr\Humanizer.resources.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\sv\Humanizer.resources.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\tr\Humanizer.resources.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\uk\Humanizer.resources.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\vi\Humanizer.resources.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\Bussines.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\Repository.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\Services.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\Repository.pdb
+E:\5w2h\5w2h\bin\Debug\net6.0\Services.pdb
+E:\5w2h\5w2h\bin\Debug\net6.0\Bussines.pdb
+E:\5w2h\5w2h\obj\Debug\net6.0\5w2h.csproj.AssemblyReference.cache
+E:\5w2h\5w2h\obj\Debug\net6.0\5w2h.GeneratedMSBuildEditorConfig.editorconfig
+E:\5w2h\5w2h\obj\Debug\net6.0\5w2h.AssemblyInfoInputs.cache
+E:\5w2h\5w2h\obj\Debug\net6.0\5w2h.AssemblyInfo.cs
+E:\5w2h\5w2h\obj\Debug\net6.0\5w2h.csproj.CoreCompileInputs.cache
+E:\5w2h\5w2h\obj\Debug\net6.0\5w2h.MvcApplicationPartsAssemblyInfo.cache
+E:\5w2h\5w2h\obj\Debug\net6.0\5w2h.RazorAssemblyInfo.cache
+E:\5w2h\5w2h\obj\Debug\net6.0\5w2h.RazorAssemblyInfo.cs
+E:\5w2h\5w2h\obj\Debug\net6.0\staticwebassets.build.json
+E:\5w2h\5w2h\obj\Debug\net6.0\staticwebassets.development.json
+E:\5w2h\5w2h\obj\Debug\net6.0\staticwebassets\msbuild.5w2h.Microsoft.AspNetCore.StaticWebAssets.props
+E:\5w2h\5w2h\obj\Debug\net6.0\staticwebassets\msbuild.build.5w2h.props
+E:\5w2h\5w2h\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.5w2h.props
+E:\5w2h\5w2h\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.5w2h.props
+E:\5w2h\5w2h\obj\Debug\net6.0\staticwebassets.pack.json
+E:\5w2h\5w2h\obj\Debug\net6.0\scopedcss\Areas\Gestaoo\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\5w2h\5w2h\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\5w2h\5w2h\obj\Debug\net6.0\scopedcss\bundle\5w2h.styles.css
+E:\5w2h\5w2h\obj\Debug\net6.0\scopedcss\projectbundle\5w2h.bundle.scp.css
+E:\5w2h\5w2h\obj\Debug\net6.0\5w2h.csproj.CopyComplete
+E:\5w2h\5w2h\obj\Debug\net6.0\5w2h.dll
+E:\5w2h\5w2h\obj\Debug\net6.0\refint\5w2h.dll
+E:\5w2h\5w2h\obj\Debug\net6.0\5w2h.pdb
+E:\5w2h\5w2h\obj\Debug\net6.0\5w2h.genruntimeconfig.cache
+E:\5w2h\5w2h\obj\Debug\net6.0\ref\5w2h.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\Mono.TextTemplating.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\System.CodeDom.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\System.Text.Json.dll
+E:\5w2h\5w2h\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\appsettings.json
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\5w2h.staticwebassets.runtime.json
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\5w2h.exe
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\5w2h.deps.json
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\5w2h.runtimeconfig.json
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\5w2h.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\5w2h.pdb
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\MessagePack.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\Microsoft.Build.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\af\Humanizer.resources.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\ar\Humanizer.resources.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\az\Humanizer.resources.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\bg\Humanizer.resources.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\cs\Humanizer.resources.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\da\Humanizer.resources.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\de\Humanizer.resources.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\el\Humanizer.resources.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\es\Humanizer.resources.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\fa\Humanizer.resources.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\fr\Humanizer.resources.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\he\Humanizer.resources.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\hr\Humanizer.resources.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\hu\Humanizer.resources.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\hy\Humanizer.resources.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\id\Humanizer.resources.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\is\Humanizer.resources.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\it\Humanizer.resources.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\ja\Humanizer.resources.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\ku\Humanizer.resources.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\lv\Humanizer.resources.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\mt\Humanizer.resources.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\nb\Humanizer.resources.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\nl\Humanizer.resources.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\pl\Humanizer.resources.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\pt\Humanizer.resources.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\ro\Humanizer.resources.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\ru\Humanizer.resources.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\sk\Humanizer.resources.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\sl\Humanizer.resources.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\sr\Humanizer.resources.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\sv\Humanizer.resources.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\tr\Humanizer.resources.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\uk\Humanizer.resources.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\vi\Humanizer.resources.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\Bussines.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\Repository.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\Services.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\Repository.pdb
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\Services.pdb
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\bin\Debug\net6.0\Bussines.pdb
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\obj\Debug\net6.0\5w2h.csproj.AssemblyReference.cache
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\obj\Debug\net6.0\5w2h.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\obj\Debug\net6.0\5w2h.AssemblyInfoInputs.cache
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\obj\Debug\net6.0\5w2h.AssemblyInfo.cs
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\obj\Debug\net6.0\5w2h.csproj.CoreCompileInputs.cache
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\obj\Debug\net6.0\5w2h.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\obj\Debug\net6.0\5w2h.RazorAssemblyInfo.cache
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\obj\Debug\net6.0\5w2h.RazorAssemblyInfo.cs
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\obj\Debug\net6.0\staticwebassets\msbuild.5w2h.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\obj\Debug\net6.0\staticwebassets\msbuild.build.5w2h.props
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.5w2h.props
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.5w2h.props
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\obj\Debug\net6.0\scopedcss\Areas\Gestaoo\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\obj\Debug\net6.0\scopedcss\bundle\5w2h.styles.css
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\obj\Debug\net6.0\scopedcss\projectbundle\5w2h.bundle.scp.css
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\obj\Debug\net6.0\5w2h.csproj.CopyComplete
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\obj\Debug\net6.0\5w2h.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\obj\Debug\net6.0\refint\5w2h.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\obj\Debug\net6.0\5w2h.pdb
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\obj\Debug\net6.0\5w2h.genruntimeconfig.cache
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\obj\Debug\net6.0\ref\5w2h.dll

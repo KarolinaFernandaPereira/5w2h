@@ -1,0 +1,167 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700&display=swap');
+
+body {
+   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+
+    /*
+        background-repeat: no-repeat, repeat;
+        background-size: cover;
+        background-position: center; 
+        background-repeat: no-repeat, repeat;
+    
+        background-color: #bdbebd;
+    */
+    
+    
+    
+   background-color: rgb(195, 132, 255);
+
+   background-image: linear-gradient(rgb(170, 84, 250),rgb(120, 122, 196),  rgb(228, 199, 255));
+    
+    
+}
+
+ion-icon {
+    font-size: 25px;
+    
+}
+
+*{
+    box-sizing: border-box;
+}
+
+
+@media screen and (max-width: 576px) {
+    #logo{
+        display: none !important; 
+    }
+
+    .box {
+       
+        border-radius: 5% 5% 5% 5% !important;
+        
+    }
+     
+}
+
+#logo {
+    width: 300px;
+    height: 300px;    
+    padding: 5px;  
+    border-radius: 5% 0% 0% 5%;
+    box-shadow:  5px 11px 11px;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(195, 132, 255);
+    
+}
+
+
+#logo img {
+    max-width:300px;
+    max-height:300px;
+    width: 260px;
+    height: 260px;
+}
+
+.box{
+    
+    width: 300px;
+    height: 300px;  
+    background-color: #FFF;  
+    padding: 5px;
+    border-radius: 0% 5% 5% 0%;  
+    box-shadow:  5px 11px 11px;
+    
+    
+}
+.box .campos-span {
+    width: 50%;
+    text-align: center;
+    border-bottom: 1px solid #333;
+}
+
+.box a {
+    text-decoration: none;
+    color: blue;
+}
+
+.box .header  {
+    display: flex;
+    
+    font-family: "Roboto", sans-serif   ;
+    font-size: 25px;
+    justify-content: center;  
+    align-items: center;
+    font-weight: 500;
+    color: blue;
+    padding-top: 5px;
+    width: 100%;
+    
+}
+
+#form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    gap: 10px;
+    
+}
+
+#form .form-group {
+    padding: 8px 10px;
+    display: flex;  
+    align-items: center;
+    gap: 8px;
+    border-radius: 25px;
+    border: 1px solid;
+    box-shadow:  1px 1px 1px;
+}
+
+#form input {
+    width: 200px;
+    height: 30px;
+    padding: 5px;
+    font-size: 14px;    
+    display: flex;  
+    align-items: center;
+    border: none;
+}
+
+#form input:focus {
+    outline: none;
+}
+
+.bottom button {
+    border: none;
+    background-color: blueviolet;
+    color: #FFF;
+    font-size: 16px;
+    padding: 9px 22px;
+    border-radius: 6px;
+    width: 210px    ;
+    cursor: pointer;
+}
+
+.bottom {
+    display: flex;
+    justify-content: center;
+    padding-top: 5px;
+}
+
+.text-danger {
+    color: #333;
+    border-bottom: none;
+}
+
+
+

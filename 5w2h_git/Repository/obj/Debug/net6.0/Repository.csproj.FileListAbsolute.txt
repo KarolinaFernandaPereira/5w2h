@@ -1,0 +1,85 @@
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\Repository\bin\Debug\net6.0\Repository.deps.json
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\Repository\bin\Debug\net6.0\Repository.runtimeconfig.json
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\Repository\bin\Debug\net6.0\Repository.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\Repository\bin\Debug\net6.0\Repository.pdb
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\Repository\bin\Debug\net6.0\Bussines.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\Repository\bin\Debug\net6.0\Bussines.pdb
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\Repository\obj\Debug\net6.0\Repository.csproj.CopyComplete
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\Repository\obj\Debug\net6.0\Repository.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\Repository\obj\Debug\net6.0\refint\Repository.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\Repository\obj\Debug\net6.0\Repository.pdb
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\Repository\obj\Debug\net6.0\Repository.genruntimeconfig.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\Katee\5w2h\Repository\obj\Debug\net6.0\ref\Repository.dll
+F:\5w2h\Repository\bin\Debug\net6.0\Repository.deps.json
+F:\5w2h\Repository\bin\Debug\net6.0\Repository.runtimeconfig.json
+F:\5w2h\Repository\bin\Debug\net6.0\Repository.dll
+F:\5w2h\Repository\bin\Debug\net6.0\Repository.pdb
+F:\5w2h\Repository\bin\Debug\net6.0\Bussines.dll
+F:\5w2h\Repository\bin\Debug\net6.0\Bussines.pdb
+F:\5w2h\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+F:\5w2h\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+F:\5w2h\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+F:\5w2h\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+F:\5w2h\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+F:\5w2h\Repository\obj\Debug\net6.0\Repository.csproj.CopyComplete
+F:\5w2h\Repository\obj\Debug\net6.0\Repository.dll
+F:\5w2h\Repository\obj\Debug\net6.0\refint\Repository.dll
+F:\5w2h\Repository\obj\Debug\net6.0\Repository.pdb
+F:\5w2h\Repository\obj\Debug\net6.0\Repository.genruntimeconfig.cache
+F:\5w2h\Repository\obj\Debug\net6.0\ref\Repository.dll
+G:\5w2h\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+G:\5w2h\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+G:\5w2h\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+G:\5w2h\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+G:\5w2h\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+G:\5w2h\Repository\obj\Debug\net6.0\Repository.dll
+G:\5w2h\Repository\obj\Debug\net6.0\refint\Repository.dll
+G:\5w2h\Repository\obj\Debug\net6.0\Repository.pdb
+G:\5w2h\Repository\bin\Debug\net6.0\Repository.deps.json
+G:\5w2h\Repository\bin\Debug\net6.0\Repository.runtimeconfig.json
+G:\5w2h\Repository\bin\Debug\net6.0\Repository.dll
+G:\5w2h\Repository\bin\Debug\net6.0\Repository.pdb
+G:\5w2h\Repository\bin\Debug\net6.0\Bussines.dll
+G:\5w2h\Repository\bin\Debug\net6.0\Bussines.pdb
+G:\5w2h\Repository\obj\Debug\net6.0\Repository.csproj.CopyComplete
+G:\5w2h\Repository\obj\Debug\net6.0\Repository.genruntimeconfig.cache
+G:\5w2h\Repository\obj\Debug\net6.0\ref\Repository.dll
+E:\5w2h\Repository\bin\Debug\net6.0\Repository.deps.json
+E:\5w2h\Repository\bin\Debug\net6.0\Repository.runtimeconfig.json
+E:\5w2h\Repository\bin\Debug\net6.0\Repository.dll
+E:\5w2h\Repository\bin\Debug\net6.0\Repository.pdb
+E:\5w2h\Repository\bin\Debug\net6.0\Bussines.dll
+E:\5w2h\Repository\bin\Debug\net6.0\Bussines.pdb
+E:\5w2h\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+E:\5w2h\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+E:\5w2h\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+E:\5w2h\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+E:\5w2h\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+E:\5w2h\Repository\obj\Debug\net6.0\Repository.csproj.CopyComplete
+E:\5w2h\Repository\obj\Debug\net6.0\Repository.dll
+E:\5w2h\Repository\obj\Debug\net6.0\refint\Repository.dll
+E:\5w2h\Repository\obj\Debug\net6.0\Repository.pdb
+E:\5w2h\Repository\obj\Debug\net6.0\Repository.genruntimeconfig.cache
+E:\5w2h\Repository\obj\Debug\net6.0\ref\Repository.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\Repository\bin\Debug\net6.0\Repository.deps.json
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\Repository\bin\Debug\net6.0\Repository.runtimeconfig.json
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\Repository\bin\Debug\net6.0\Repository.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\Repository\bin\Debug\net6.0\Repository.pdb
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\Repository\bin\Debug\net6.0\Bussines.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\Repository\bin\Debug\net6.0\Bussines.pdb
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\Repository\obj\Debug\net6.0\Repository.csproj.CopyComplete
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\Repository\obj\Debug\net6.0\Repository.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\Repository\obj\Debug\net6.0\refint\Repository.dll
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\Repository\obj\Debug\net6.0\Repository.pdb
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\Repository\obj\Debug\net6.0\Repository.genruntimeconfig.cache
+C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\Repository\obj\Debug\net6.0\ref\Repository.dll

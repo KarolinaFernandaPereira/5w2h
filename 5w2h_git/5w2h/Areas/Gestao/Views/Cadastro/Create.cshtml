@@ -1,0 +1,204 @@
+﻿@model Bussines.Funcionario
+
+
+
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Areas/Gestão/Views/Shared/_Layout.cshtml";
+
+    bool Gestor = false;
+}
+
+   
+<!DOCTYPE html>
+<html lang="en">
+<head >
+    <meta charset="UTF-8">
+    
+    <title>5W2H Board</title>
+
+    
+    <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
+    <script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
+    
+
+    
+    
+    
+    <script src="https://cdn.jsdelivr.net/npm/sortablejs@latest/Sortable.min.js"></script>  
+    <link rel="stylesheet" href="~/css/style.css">
+    <link rel="stylesheet" href="~/css/cadastro.css">
+    <link rel="stylesheet" href="~/css/modalPerfil.css">
+    <link rel="icon" type="image/png" href="~/img/iconeAba.png" sizes="5x5">
+</head>
+<body  >
+    
+   
+
+    <div class="header">
+        <img src="~/img/logoCurto.png" alt="">
+        
+        
+        <div class="novoQuadroBotao">
+            <a asp-controller="teste" asp-action="Index" class="primary">Voltar</a>
+            <img src="~/img/logopng.png" alt="" class="logoHeader" onclick="openPerfil()">
+        </div>
+    </div>
+
+
+
+    <div id="boxCadastro">
+        <div class="box">
+            <div class="head">
+                <span>Cadastro</span>
+
+                
+            </div>
+
+            <form asp-action="Create" class="form">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <div class="form-group">
+                    <label asp-for="NomeCompleto" class="control-label">Nome Completo</label>
+                    <input asp-for="NomeCompleto" class="form-control" type="text" />
+                    <span asp-validation-for="NomeCompleto" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label class="control-label">E-mail</label>
+                    <input class="form-control" type="text" name="Email" />
+                    
+                </div>
+                <div class="form-group">
+                    <label asp-for="CPF" class="control-label">CPF</label>
+                    <input asp-for="CPF" class="form-control" type="text" />
+                    <span asp-validation-for="CPF" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label class="control-label">Senha Inicial</label>
+                    <input class="form-control" type="text" />
+                    
+                </div>
+
+                @Html.HiddenFor(Model => Gestor);
+                
+                <div class="form-group" style="display: flex; align-items: center;">
+                    <label asp-for="Gestor" class="control-label" name="Gestor"></label>
+                    
+                    
+                    <input type="checkbox" id="inputTrocarValor" />
+                    <span asp-validation-for="Gestor" class="text-danger"></span>
+                </div>
+                <div class="form-group" style="display: flex; align-items: center;">
+                    <label asp-for="Ativo" class="control-label"></label>
+                    <input class="form-control" type="checkbox" />
+                    <span asp-validation-for="Ativo" class="text-danger"></span>
+                </div>
+                
+                <div class="footer">
+                    <button class="primary" style="background-color: rgb(192, 154, 154);" onclick="limpar()">Limpar</button>
+                    <button class="primary" value="Criar" type="submit">Cadastrar</button>
+                </div>
+            </form>
+
+        </div>
+    </div>
+
+    
+    <div id="modalPerfilCadastro">
+        <div class="box">
+            
+            <img id="fotoCapa" src="./img/logopng.png" alt="" class="fotoTrocada">
+            
+            
+          
+            <div class="perfil-group">
+
+                <a href="#" >
+                    <ion-icon  name="image-outline" class="iconePerfil"></ion-icon>  
+                    <input type="file"  id="upload" onchange="showThumbnail(this)">
+                    <label for="upload" style="cursor: pointer">Trocar Foto</label> 
+                </a>
+            </div>
+            <hr >
+            <div class="perfil-group">
+
+                <a href="#">
+                    <ion-icon name="lock-closed-outline" class="iconePerfil"></ion-icon>
+                    <span>Alterar Senha</span>
+                </a>
+            </div>
+            <hr >
+            <div class="perfil-group">
+
+                <a href="./login.html">
+                    <ion-icon name="exit-outline" class="iconePerfil"></ion-icon>
+                    <span>Deslogar</span>
+                </a>
+            </div>
+                
+
+
+        </div>
+    </div>
+
+    <div id="modalConsulta">
+        <div class="box">
+            <div class="head">
+                <span class="consultaSpan">Consultar Funcionários</span>
+                <button onclick="fecharModalConsulta()" class="closeConsulta">X</button>
+            </div>
+            <div class="form" style="padding: 14px;">
+                <div class="apenasAtivos">
+                    <input type="checkbox" id="usuariosAtivos" placeholder="" checked="true"/>
+                    <label for="usuariosAtivos">Apenas Ativos</label> 
+                </div>
+                <div class="pesquisar">
+                    <input type="text" class="pesquisarConsulta" placeholder="Pesquisar">
+                    <ion-icon name="search-outline"></ion-icon>
+                </div>
+                <div class="listaFuncionario">
+                    <ul style="list-style-type: none;
+                    /* padding-left: 0px; */
+                    background: #DDD;
+                    border: 1px solid #333;
+                    border-top: 1px solid #a59898;
+                    border-radius: 0 0 10px 10px;
+                ">
+                        <li class="funcionario" onclick="consultaFuncionario('Karolina Fernanda')" id="ativo">Karolina Fernanda <span class="ativoSpan">Ativo</span></li>
+                        <li class="funcionario" onclick="consultaFuncionario('Kate Silva')" id="ativo">Kate Silva<span class="ativoSpan">Ativo</span></li>
+                        <li class="funcionario" onclick="consultaFuncionario('Gustavo Bozo')" id="inativo">Gustavo Bozo <span class="inativoSpan">Inativo</span></li>
+
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script>
+        
+        $(document).ready(function () {
+            $('#inputTrocarValor').change(function () {
+                var novoValor = this.checked;
+                console.log(novoValor);
+                    
+                $.ajax({
+                    type: "POST",
+                    url: "@Url.Action("Create", "Cadastro")",
+                    data: { novoValor: novoValor },
+                    success: function (data) {
+                        // Faça algo com a resposta do controlador, se necessário
+                    },
+                    error: function () {
+                        // Lide com erros, se houver
+                    }
+                });
+            });
+        });
+
+        
+    </script>
+</body>
+</html>
+    
+
+

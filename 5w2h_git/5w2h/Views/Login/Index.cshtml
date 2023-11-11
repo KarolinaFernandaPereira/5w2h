@@ -1,0 +1,75 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+@model Bussines.Login
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>5W2H Board</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
+    <script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+    <link rel="stylesheet" href="~/css/login.css">
+
+
+    <link rel="icon" type="image/png" href="~/img/iconeAba.png" sizes="5x5">
+
+</head>
+<body>
+
+
+    <div id="login" class="container-fluid">
+        <div class="row ">
+            <div class="col d-flex justify-content-center align-items-center">
+                <div id="logo">
+                    <img src="~/img/fundoCaras.jpg" alt="">
+                </div>
+                <div class="box">
+                    <div class="header">
+
+                        <span>Login</span>
+                    </div>
+                    <form id="form" asp-controller="Login" asp-action="Logar" method="post">
+
+                        <div class="form-group">
+                            <div style="display: flex">
+
+                                <input type="text" id="email" asp-for="Email" placeholder="E-mail" />
+                                <ion-icon name="person-outline"></ion-icon>
+                                <span asp-validation-for="Email"/>
+                            </div>
+
+                        </div>
+                        <span asp-validation-for="Email" class="text-danger"></span>
+                        <div class="form-group">
+                            <div style="display: flex">
+                                <input type="password" asp-for="Senha" id="senha" placeholder="Senha">
+                                <ion-icon name="lock-closed-outline"></ion-icon>
+                                <span asp-validation-for="Senha" />
+                            </div>
+                        </div>
+                        <span asp-validation-for="Senha" class="text-danger"></span>
+
+                        <div class="bottom">
+
+                            <button type="submit">Login</button>
+                        </div>
+                    </form>
+                    
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.min.js" integrity="sha384-BBtl+eGJRgqQAUMxJ7pMwbEyER4l1g+O15P+16Ep7Q9Q+zqX6gSbd85u4mG4QzX+" crossorigin="anonymous"></script>
+
+
+
+</body>
+</html>

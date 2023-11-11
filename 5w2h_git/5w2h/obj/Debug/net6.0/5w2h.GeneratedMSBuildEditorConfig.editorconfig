@@ -1,0 +1,91 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = _5w2h
+build_property.RootNamespace = _5w2h
+build_property.ProjectDir = C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Karolina\OneDrive\Área de Trabalho\5w2h\5w2h
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Karolina/OneDrive/Área de Trabalho/5w2h/5w2h/Areas/Gestaoo/Views/Cadastro/Ativar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcR2VzdGFvb1xWaWV3c1xDYWRhc3Ryb1xBdGl2YXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Karolina/OneDrive/Área de Trabalho/5w2h/5w2h/Areas/Gestaoo/Views/Cadastro/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcR2VzdGFvb1xWaWV3c1xDYWRhc3Ryb1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Karolina/OneDrive/Área de Trabalho/5w2h/5w2h/Areas/Gestaoo/Views/Cadastro/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcR2VzdGFvb1xWaWV3c1xDYWRhc3Ryb1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Karolina/OneDrive/Área de Trabalho/5w2h/5w2h/Areas/Gestaoo/Views/Cadastro/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcR2VzdGFvb1xWaWV3c1xDYWRhc3Ryb1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Karolina/OneDrive/Área de Trabalho/5w2h/5w2h/Areas/Gestaoo/Views/Cadastro/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcR2VzdGFvb1xWaWV3c1xDYWRhc3Ryb1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Karolina/OneDrive/Área de Trabalho/5w2h/5w2h/Areas/Gestaoo/Views/Cadastro/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcR2VzdGFvb1xWaWV3c1xDYWRhc3Ryb1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Karolina/OneDrive/Área de Trabalho/5w2h/5w2h/Areas/Gestaoo/Views/teste/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcR2VzdGFvb1xWaWV3c1x0ZXN0ZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Karolina/OneDrive/Área de Trabalho/5w2h/5w2h/Areas/Gestaoo/Views/teste/verTarefaPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcR2VzdGFvb1xWaWV3c1x0ZXN0ZVx2ZXJUYXJlZmFQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Karolina/OneDrive/Área de Trabalho/5w2h/5w2h/Areas/Gestaoo/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcR2VzdGFvb1xWaWV3c1xfVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Karolina/OneDrive/Área de Trabalho/5w2h/5w2h/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Karolina/OneDrive/Área de Trabalho/5w2h/5w2h/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Karolina/OneDrive/Área de Trabalho/5w2h/5w2h/Views/Login/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Karolina/OneDrive/Área de Trabalho/5w2h/5w2h/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Karolina/OneDrive/Área de Trabalho/5w2h/5w2h/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Karolina/OneDrive/Área de Trabalho/5w2h/5w2h/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Karolina/OneDrive/Área de Trabalho/5w2h/5w2h/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Karolina/OneDrive/Área de Trabalho/5w2h/5w2h/Areas/Gestaoo/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcR2VzdGFvb1xWaWV3c1xTaGFyZWRcX0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = b-cg06deg5ui
+
+[C:/Users/Karolina/OneDrive/Área de Trabalho/5w2h/5w2h/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-u1vct0k8yy

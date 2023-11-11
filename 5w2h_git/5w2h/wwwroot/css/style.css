@@ -1,0 +1,637 @@
+:root {
+    --primary-color: rgb(174, 92, 250);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+    outline: none;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #bdbebd;
+}
+
+
+
+ion-icon {
+    font-size: 32px;
+    border-radius: 100%;
+}
+
+#inputs5w2h {
+    border: 1px solid #333;
+    position: relative;
+    left: 10px;
+    width: 451px;
+    top: 1px;
+}
+
+
+    #inputs5w2h .form-group-5w2h {
+        display: flex;
+    }
+
+        #inputs5w2h .form-group-5w2h label {
+            margin-top: 10px;
+            margin-left: 5px;
+        }
+
+    #inputs5w2h .w2hInput {
+        border: none;
+        width: 100%;
+        border-radius: 7px;
+        font-size: 14px;
+        padding: 10px;
+        color: #333;
+    }
+
+
+.header {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: right;
+    background-color: white;
+    padding: 30px;
+    gap: 10px;
+}
+
+    .header img {
+        width: 270px;
+        height: 50px;
+    }
+
+    .header .novoQuadroBotao {
+        display: flex;
+        align-items: center;
+        gap: 10px;
+    }
+
+        .header .novoQuadroBotao .logoHeader {
+            width: 95px;
+            height: 59px;
+        }
+
+
+button.primary {
+    border: none;
+    background-color: var(--primary-color);
+    color: #FFF;
+    font-size: 16px;
+    padding: 9px 22px;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+button.excluir_botao {
+    border: none;
+    background-color: rgb(255, 0, 0);
+    color: #FFF;
+    font-size: 16px;
+    padding: 9px 22px;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+#sideMenu {
+    display: none;
+}
+
+#quadros {
+    display: flex;
+    gap: 20px;
+    justify-content: start;
+    align-items: center;
+    padding: 50px 0;
+    overflow-x: auto;
+    height: 48rem;
+    max-width: 137rem;
+    min-width: 20rem;
+    padding-left: 3rem;
+}
+
+    #quadros .column {
+        width: 250px;
+        height: 600px;
+        background-color: #FFF;
+        border-radius: 10px;
+        overflow: hidden;
+        min-width: 250px;
+    }
+
+#sideMenu {
+    display: none;
+}
+
+#containerMobile {
+    display: none;
+}
+
+
+@media screen and (max-width: 576px) {
+    .header .novoQuadroBotao {
+        display: none;
+    }
+
+
+    #sideMenu {
+        display: block;
+    }
+
+    #containerMobile {
+        display: block;
+    }
+
+    #containerNormal {
+        display: none;
+    }
+}
+
+#quadros .column .head {
+    background-color: var(--primary-color);
+    color: #FFF;
+    padding: 15px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+    #quadros .column .head #headIcon {
+        padding-left: 86px;
+        cursor: pointer;
+    }
+
+#quadros .column .body {
+    margin: 15px;
+}
+
+    #quadros .column .body .cards_list {
+        display: flex;
+        flex-direction: column;
+        max-height: 30.5rem;
+        overflow-y: scroll;
+    }
+
+::-webkit-scrollbar:decrement {
+    width: 5rem;
+}
+
+#quadros .column .body .cards_list #vierEditarTarefa {
+    position: relative;
+}
+
+#quadros .column .body .add_btn {
+    background: none;
+    border: 1px solid;
+    border-radius: 10px;
+    padding: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    cursor: pointer;
+}
+
+#quadros .column .body .card {
+    background-color: #c5c0c0;
+    border-radius: 7px;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    position: relative;
+    margin-bottom: 20px;
+}
+
+#quadros .column .body .info {
+    font-size: 14px;
+    color: #333;
+    display: flex;
+}
+
+
+
+#quadros .column .body .verMais,
+#quadros .column .body .verMenos {
+    font-size: 14px;
+    color: #333;
+    display: flex;
+    flex-direction: column;
+    border: none;
+    width: 32px;
+    height: 32px;
+    position: absolute;
+    bottom: -20px;
+    background: none;
+}
+
+
+
+#quadros .column .body .verMais,
+#quadros .column .body .verMenos {
+    border-radius: 100%;
+    color: #fff;
+    background-color: #c5c0c0
+}
+
+#quadros .column .body .mais {
+    display: none;
+}
+
+    #quadros .column .body .mais .info {
+        font-size: 14px;
+        color: #333;
+        display: flex;
+        flex-direction: column;
+        padding: 5px;
+    }
+
+.membroAdicionado {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 4px;
+    padding-bottom: 4px;
+}
+
+#modal {
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: rgba(0, 0, 0, 0.5);
+    border: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 2;
+}
+
+    #modal .box {
+        background-color: #FFF;
+        width: 623px;
+        border-radius: 7px;
+        overflow: hidden;
+        display: inline;
+        height: 41rem;
+    }
+
+        #modal .box .head {
+            display: flex;
+            justify-content: space-between;
+            padding: 15px 20px;
+            border-bottom: 1px solid #DDD;
+            align-items: center;
+        }
+
+            #modal .box .head span {
+                font-size: 18px;
+                font-weight: 700;
+                color: #333;
+            }
+
+            #modal .box .head button {
+                border: none;
+                background: none;
+                font-size: 20px;
+                font-weight: 700;
+                cursor: pointer;
+                color: #333;
+            }
+
+        #modal .box #headEdit {
+            padding-left: 97%;
+            border: none;
+            background: none;
+            font-size: 20px;
+            font-weight: 700;
+            cursor: pointer;
+            color: #333;
+        }
+
+        #modal .box .form {
+            padding: 20px;
+        }
+
+            #modal .box .form b {
+                position: relative;
+                top: -1px;
+            }
+
+
+            #modal .box .form .form-group {
+                margin-bottom: 15px;
+            }
+
+
+            #modal .box .form label {
+                display: block;
+                font-size: 14px;
+                color: #333;
+                margin-bottom: 5px;
+            }
+
+            #modal .box .form textarea {
+                width: 77%;
+                position: relative;
+                left: 10px;
+            }
+
+            #modal .box .form .nameInput,
+            #modal .box .form select {
+                width: 100%;
+                border-radius: 7px;
+                font-size: 14px;
+                border: 1px solid #999;
+                color: #333;
+            }
+
+
+
+            #modal .box .form textarea {
+                padding: 10px 15px;
+            }
+
+            #modal .box .form select {
+                padding: 10px;
+            }
+
+
+            #modal .box .form .nameInput {
+                padding: 10px;
+                width: 28.8rem;
+            }
+
+        #modal .box #controleTarefa {
+            display: flex;
+            justify-content: flex-end;
+            /* padding-top: 10px; */
+            /* position: relative; */
+            /* right: -21%; */
+            width: 100%;
+            gap: 1rem;
+            padding-right: 4rem;
+            padding-top: 10px;
+        }
+
+
+        #modal .box .form #nomeTarefa {
+            border: 1px solid #333;
+            width: 79%;
+        }
+
+        #modal .box .form #createButton {
+            display: block;
+            margin-left: auto;
+            margin-top: 10px;
+            position: absolute;
+            right: 36%;
+            padding: 9px 46px;
+        }
+
+
+#modalQuadro {
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: rgba(0, 0, 0, 0.5);
+    border: none;
+    display: none;
+    justify-content: center;
+    align-items: center;
+    z-index: 2;
+}
+
+    #modalQuadro .box {
+        background-color: #FFF;
+        width: 400px;
+        border-radius: 7px;
+        overflow: hidden;
+        display: inline;
+    }
+
+        #modalQuadro .box .head {
+            display: flex;
+            justify-content: end;
+            padding: 15px 20px;
+            border-bottom: 1px solid #DDD;
+        }
+
+            #modalQuadro .box .head span {
+                font-size: 18px;
+                font-weight: 700;
+                color: #333;
+            }
+
+            #modalQuadro .box .head button {
+                border: none;
+                background: none;
+                font-size: 20px;
+                font-weight: 700;
+                cursor: pointer;
+                color: #333;
+            }
+
+
+
+        #modalQuadro .box .form {
+            padding: 20px;
+        }
+
+            #modalQuadro .box .form .form-group {
+                margin-bottom: 15px;
+            }
+
+            #modalQuadro .box .form .w2h {
+                position: absolute;
+                left: -10ppx;
+            }
+
+            #modalQuadro .box .form label {
+                display: block;
+                font-size: 14px;
+                color: #333;
+                margin-bottom: 5px;
+            }
+
+            #modalQuadro .box .form textarea {
+                width: 100%;
+                border-radius: 7px;
+                font-size: 14px;
+                border: 1px solid #999;
+                color: #333;
+            }
+
+            #modalQuadro .box .form textarea {
+                padding: 10px 15px;
+            }
+
+            #modalQuadro .box .form select {
+                padding: 10px;
+            }
+
+
+            #modalQuadro .box .form input {
+                padding: 10px;
+            }
+
+            #modalQuadro .box .form button {
+                display: block;
+                margin-left: auto;
+            }
+
+
+
+
+#modalDelete {
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: rgba(0, 0, 0, 0.5);
+    border: none;
+    display: none;
+    justify-content: center;
+    align-items: center;
+}
+
+    #modalDelete .box {
+        background-color: #FFF;
+        width: 400px;
+        border-radius: 7px;
+        overflow: hidden;
+        display: inline;
+    }
+
+
+        #modalDelete .box .head {
+            display: flex;
+            justify-content: space-between;
+            padding: 15px 20px;
+            border-bottom: 1px solid #DDD;
+        }
+
+            #modalDelete .box .head span {
+                font-size: 18px;
+                font-weight: 700;
+                color: #333;
+            }
+
+            #modalDelete .box .head button {
+                border: none;
+                background: none;
+                font-size: 20px;
+                font-weight: 700;
+                cursor: pointer;
+                color: #333;
+            }
+
+        #modalDelete .box .body {
+            display: flex;
+            justify-content: flex-end;
+            align-items: center;
+            padding-right: 20px;
+            margin-bottom: 14px;
+        }
+
+        #modalDelete .box p {
+            font-size: 15px;
+            color: #333;
+            padding-left: 16px;
+            padding-top: 12px;
+        }
+
+
+input[type ="file"] {
+    display: none;
+}
+
+#modal .adicionarMembro #adicionarMemrboLogo {
+    border-radius: 0%;
+    font-size: 40px;
+    padding-right: 37%;
+    align-self: center;
+}
+
+#modal .adicionarMembro {
+    display: flex;
+    justify-content: flex-end;
+    top: -10rem;
+    position: relative;
+    left: 6px;
+    flex-direction: column;
+    align-items: flex-end;
+    width: min-content;
+    float: right;
+}
+
+
+
+
+#modalDeleteQuadro {
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: rgba(0, 0, 0, 0.5);
+    border: none;
+    display: none;
+    justify-content: center;
+    align-items: center;
+    z-index: 2;
+}
+
+    #modalDeleteQuadro .box {
+        background-color: #FFF;
+        width: 400px;
+        border-radius: 7px;
+        overflow: hidden;
+        display: inline;
+    }
+
+
+        #modalDeleteQuadro .box .head {
+            display: flex;
+            justify-content: space-between;
+            padding: 15px 20px;
+            border-bottom: 1px solid #DDD;
+        }
+
+            #modalDeleteQuadro .box .head span {
+                font-size: 18px;
+                font-weight: 700;
+                color: #333;
+            }
+
+            #modalDeleteQuadro .box .head button {
+                border: none;
+                background: none;
+                font-size: 20px;
+                font-weight: 700;
+                cursor: pointer;
+                color: #333;
+            }
+
+        #modalDeleteQuadro .box .body {
+            display: flex;
+            justify-content: flex-end;
+            align-items: center;
+            padding-right: 20px;
+            margin-bottom: 14px;
+        }
+
+        #modalDeleteQuadro .box p {
+            font-size: 15px;
+            color: #333;
+            padding-left: 16px;
+            padding-top: 12px;
+        }
